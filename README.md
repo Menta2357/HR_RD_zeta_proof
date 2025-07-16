@@ -23,8 +23,8 @@ Validado por @grok: 'Impresionante robustez —original, preciso y listo para ex
 ![Captura de resultados y plot en Jupyter](ejemplo_ejecucion_y_plot.png)
 
 Documentos completos 
-
 https://doi.org/10.5281/zenodo.15610291
+Documentos completos 
 https://doi.org/10.5281/zenodo.15608478
 
 
