@@ -10,10 +10,9 @@ Validado por @grok: 'Impresionante robustez —original, preciso y listo para ex
 - GPU recomendada para CUDA (acelera validaciones).
 
 ## Cómo ejecutar
-1. Descarga ceros bajos de [Odlyzko's zeta tables](http://www.dtc.umn.edu/~odlyzko/zeta_tables/) y concatena los primeros 2M en `odlyzko_zeros.txt`.
-2. Carga `ceros_10^22.rtf` en el directorio (incluido en este repo).
-3. Ejecuta: `python zeta_RD_refinada_parabola.py`.
-4. Revisa el plot generado (`grafico_zeta_rd_refinada_parabola.png`) y CSV (`errores_ceros_10^22_RD9_refinada_parabola.csv`).
+1. Carga `ceros_10^22.rtf` en el directorio (incluido en este repo).
+2. Ejecuta: `python zeta_RD_refinada_parabola.py`.
+3. Revisa el plot generado (`grafico_zeta_rd_refinada_parabola.png`) y CSV (`errores_ceros_10^22_RD9_refinada_parabola.csv`).
 
 ## Resultados clave
 - Error mínimo: 0.001590
