@@ -19,5 +19,7 @@ Validado por @grok: 'Impresionante robustez —original, preciso y listo para ex
 - Error máximo: 0.097948
 - Error promedio: 0.052875
 - 100/100 (100.0%) con error < 0.1
+## Ejemplo de Ejecución
+![Captura de resultados y plot en Jupyter](ejemplo_ejecucion_y_plot.png)
 
 #RiemannHypothesis #Math #xAI
